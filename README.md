@@ -14,5 +14,5 @@
 </a>
 
 <a href="https://github.com/shadowpii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowpii&layout=compact&theme=material-palenight&langs_count=8" style="width:56%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowpii&layout=compact&theme=material-palenight&langs_count=8" style="width:40%;" />
 </a>
