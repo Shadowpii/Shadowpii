@@ -10,7 +10,7 @@
 ### 📊 Github Stats
 
 <a href="https://github.com/shadowpii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowpii&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Yash's github stats" style="width:50%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowpii&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Sumit's github stats" style="width:50%;" />
 </a>
 
 <a href="https://github.com/shadowpii">
