@@ -10,9 +10,9 @@
 ### 📊 Github Stats
 
 <a href="https://github.com/shadowpii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowpii&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Sumit's github stats" style="width:50%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowpii&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Sumit's github stats" style="width:40%;" />
 </a>
 
 <a href="https://github.com/shadowpii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowpii&layout=compact&theme=material-palenight&langs_count=8" style="width:49%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowpii&layout=compact&theme=material-palenight&langs_count=8" style="width:40%;" />
 </a>
