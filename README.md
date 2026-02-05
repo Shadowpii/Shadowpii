@@ -8,5 +8,4 @@
 <p/> - 🧐 Learning about <strong>Python</strong>.</p>
 <p/> - 👨‍💻 Most of my projects are available on <a href="https://github.com/shadowpii">Github</a>.</p>
 <p/> - 🌱 Learning all about **Open Source**</p>
-<p/> - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/sumit-kumar-85b0721a0)</p>
 <p/> - 😄 You can call me: Shadowpii</p>
