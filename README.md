@@ -7,5 +7,5 @@
 <p/> - 🔭 I’m currently working on making my life easy.</p>
 <p/> - 🧐 Learning about <strong>Python</strong>.</p>
 <p/> - 👨‍💻 Most of my projects are available on <a href="https://github.com/shadowpii">Github</a>.</p>
-<p/> - 🌱 Learning all about **Open Source**</p>
+<p/> - 🌱 Learning all about Open Source</p>
 <p/> - 😄 You can call me: Shadowpii</p>
